@@ -1,0 +1,14 @@
+D:\Coding\C#\Library_Management_System\Library_management_system\Library_management_system\bin\Debug\net8.0\Library_management_system.exe
+D:\Coding\C#\Library_Management_System\Library_management_system\Library_management_system\bin\Debug\net8.0\Library_management_system.deps.json
+D:\Coding\C#\Library_Management_System\Library_management_system\Library_management_system\bin\Debug\net8.0\Library_management_system.runtimeconfig.json
+D:\Coding\C#\Library_Management_System\Library_management_system\Library_management_system\bin\Debug\net8.0\Library_management_system.dll
+D:\Coding\C#\Library_Management_System\Library_management_system\Library_management_system\bin\Debug\net8.0\Library_management_system.pdb
+D:\Coding\C#\Library_Management_System\Library_management_system\Library_management_system\obj\Debug\net8.0\Library_management_system.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\C#\Library_Management_System\Library_management_system\Library_management_system\obj\Debug\net8.0\Library_management_system.AssemblyInfoInputs.cache
+D:\Coding\C#\Library_Management_System\Library_management_system\Library_management_system\obj\Debug\net8.0\Library_management_system.AssemblyInfo.cs
+D:\Coding\C#\Library_Management_System\Library_management_system\Library_management_system\obj\Debug\net8.0\Library_management_system.csproj.CoreCompileInputs.cache
+D:\Coding\C#\Library_Management_System\Library_management_system\Library_management_system\obj\Debug\net8.0\Library_management_system.dll
+D:\Coding\C#\Library_Management_System\Library_management_system\Library_management_system\obj\Debug\net8.0\refint\Library_management_system.dll
+D:\Coding\C#\Library_Management_System\Library_management_system\Library_management_system\obj\Debug\net8.0\Library_management_system.pdb
+D:\Coding\C#\Library_Management_System\Library_management_system\Library_management_system\obj\Debug\net8.0\Library_management_system.genruntimeconfig.cache
+D:\Coding\C#\Library_Management_System\Library_management_system\Library_management_system\obj\Debug\net8.0\ref\Library_management_system.dll
